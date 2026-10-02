@@ -2,7 +2,8 @@
 
 A lightweight, highly configurable mod inspired by *Red Dead Redemption* that lets you perform cinematic point-blank executions on pedestrians.
 
-<img width="800" height="450" alt="ezgif-710cc6514544e45b" src="https://github.com/user-attachments/assets/a8a2ce45-4199-4dbb-b29a-b4b0d2acb63c" />
+<img width="800" height="450" alt="ezgif-539ebd5f917d2ae5" src="https://github.com/user-attachments/assets/eeecb915-2840-4e06-8290-a19e72ad541f" />
+<img width="800" height="450" alt="ezgif-5c2abb3cf3482145" src="https://github.com/user-attachments/assets/cefa5b2d-c958-4fc5-9405-faf02db77e6e" />
 
 ## Features
 - **Weapon-Specific Configs:** Configure different radii, dot-product angles, delays, and custom animations for every weapon type via `weapons.txt`.
