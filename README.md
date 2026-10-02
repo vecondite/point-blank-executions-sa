@@ -1,10 +1,7 @@
-Point-Blank Executions
----
-<img width="800" height="450" alt="ezgif-710cc6514544e45b" src="https://github.com/user-attachments/assets/a8a2ce45-4199-4dbb-b29a-b4b0d2acb63c" />
-
 # Point-Blank Executions for GTA: San Andreas
 
 A lightweight, highly configurable mod inspired by *Red Dead Redemption* that lets you perform cinematic point-blank executions on pedestrians.
+<img width="800" height="450" alt="ezgif-710cc6514544e45b" src="https://github.com/user-attachments/assets/a8a2ce45-4199-4dbb-b29a-b4b0d2acb63c" />
 
 ## Features
 - **Weapon-Specific Configs:** Configure different radii, dot-product angles, delays, and custom animations for every weapon type via `weapons.txt`.
