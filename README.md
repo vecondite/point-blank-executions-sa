@@ -1,5 +1,6 @@
 # Point-Blank Executions for GTA: San Andreas
 ![Static Badge](https://img.shields.io/badge/GTA%3ASA-v1.0%20HOODLUM-blue?style=for-the-badge&logo=rockstargames&logoColor=%23FCAF17&logoSize=auto)
+
 A lightweight, highly configurable mod inspired by *Red Dead Redemption* that lets you perform cinematic point-blank executions on pedestrians.
 
 <img width="800" height="450" alt="ezgif-539ebd5f917d2ae5" src="https://github.com/user-attachments/assets/eeecb915-2840-4e06-8290-a19e72ad541f" />
